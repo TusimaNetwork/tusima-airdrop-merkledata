@@ -9660,10 +9660,6 @@
     "amount": 53.2
   },
   {
-    "account": "0x05BE62382489d8718dBB1B828a77ed77B623DC8a",
-    "amount": 53.2
-  },
-  {
     "account": "0xab532d17c348F47f2b30dE04eC76F98a66044605",
     "amount": 53.2
   },
@@ -9674,13 +9670,5 @@
   {
     "account": "0x6ee7d20b91F890179bF33983b1BC13F27450208e",
     "amount": 53.2
-  },
-  {
-    "account": "0xE9f576D2eA8AF42639D9df2798bAFEE2cA49b12e",
-    "amount": 700.9991
-  },
-  {
-    "account": "0xBAFD4E08103faE3ABA7C64c6eB5533304B930d34",
-    "amount": 12345001.001
   }
 ]
