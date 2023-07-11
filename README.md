@@ -1,2 +1,2 @@
 # tusima-airdrop-merkledata
-Tusima airdrop merle tree data.
+Tusima airdrop merle tree data.aa
